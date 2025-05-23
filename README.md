@@ -1,6 +1,6 @@
-# Nate-R-L.github.io
+# miko.github.io
 Personal Portfolio Page using Github pages. 
 
 Come check it out!
 
-https://nate-r-l.github.io
+https://miko.github.io
